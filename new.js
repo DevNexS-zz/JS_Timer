@@ -1,7 +1,7 @@
 window.addEventListener('DOMContentLoaded', function() {
 
     'use strict';
-    // Timer 
+    // Timer  
     let deadline = '2020-05-03';
 
     function getTimeRemaining(endtime) {
